@@ -22,8 +22,6 @@ icon: globe-pointer
 
 最终的效果应该是这样的：
 
-{% embed url="https://dudejs.gt4t.ai/1.get_started/dude-Hello_world!/" %}
-Hello world!
-{% endembed %}
+[https://dudejs.gt4t.ai/1.get\_started/dude-Hello\_world!/](https://dudejs.gt4t.ai/1.get_started/dude-Hello_world!/)
 
 恭喜！这可能是你也像我一样，这是人生中做的第一个游戏。
