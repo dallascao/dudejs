@@ -146,9 +146,7 @@ this.speechBubble = this.add.text(this.player.x, this.player.y - 50, userMessage
 
 好了，休息一下，点一下 `Visual Studio Code`右下角的`Live server`启动我们更新的游戏！
 
-
-
-{% embed url="https://dudejs.gt4t.ai/2.variables_constants/dude-parrot/" %}
+[https://dudejs.gt4t.ai/2.variables\_constants/dude-parrot/](https://dudejs.gt4t.ai/2.variables_constants/dude-parrot/)
 
 [点击这里](https://dudejs.gt4t.ai/2.variables_constants/dude-parrot.zip)下载更新后的`Dude`源代码。大胆些，随意更改这些代码来练习以上内容，例如你可改下 `Dude`跳起的高度。改坏了当然也很正常，大不了重新下载再来！
 
